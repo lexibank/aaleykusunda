@@ -1,3 +1,4 @@
+import re
 import csv
 import attr
 import pathlib
@@ -23,9 +24,10 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     form_spec = FormSpec(
         brackets={"(": ")"},
-        separators = ";,/~",
+        separators = "~;,/ ",
         missing_data=['*', '---', '-','∅'],
-        strip_inside_brackets=True
+        strip_inside_brackets=True,
+        first_form_only=True
     )
 
     def cmd_makecldf(self, args):
@@ -46,6 +48,7 @@ class Dataset(BaseDataset):
                         Language_ID=val,
                         Parameter_ID=concepts[entry['ENGLISH']],
                         Value=entry[key],
+                        #Value=re.split('\s+', entry[key])[0],
                         Source=['Bodt2019b']
                     )
             elif entry['ENGLISH'] == 'the barley (Tibetan or highland)':
@@ -54,6 +57,7 @@ class Dataset(BaseDataset):
                         Language_ID=val,
                         Parameter_ID=concepts['the barley (tibetan or highland)'],
                         Value=entry[key],
+                        #Value=re.split('\s+', entry[key])[0],
                         Source=['Bodt2019b']
                     )
             elif entry['ENGLISH'] == 'to plant (vegetables, rice)':
@@ -62,6 +66,7 @@ class Dataset(BaseDataset):
                         Language_ID=val,
                         Parameter_ID=concepts['to plant (vegetals, rice)'],
                         Value=entry[key],
+                        #Value=re.split('\s+', entry[key])[0],
                         Source=['Bodt2019b']
                     )
             else:
