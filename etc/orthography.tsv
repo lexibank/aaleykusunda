@@ -1,0 +1,164 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+.	+	sɔk.sɔk.gaː.rɐm sɔk.sɔk.di, sɔk.sɔk.di sɔk.sɔk.gɔ.rɔm	KusundaK, KusundaGM, Kusunda	100	U+002e
+ɐ	ɐ	kʰɐm.kʰɐm ɐ.gɔː kʰɐm ɐ.gɔː, gi.lɐŋ	KusundaK, KusundaGM, Kusunda	100	U+0250
+g	g	ɐ.gəj, hɐ.rə.gun	KusundaGM, KusundaK, Kusunda	100	U+0067
+u	u	bul.ʦʰum, gu.luŋ	KusundaK, KusundaGM, Kusunda	100	U+0075
+_	+	ɐ.t̪aː gi.t̪ɐŋ hur.rə ɐ.gɔː, kʰɐm.kʰɐm ɐ.gɔː kʰɐm ɐ.gɔː	KusundaK, KusundaGM, Kusunda	100	U+005f
+i	i	si.sin, gi.naː	KusundaGM, KusundaK, Kusunda	100	U+0069
+ə	ə	i.ʣəŋ, jəw	KusundaGM, KusundaK, Kusunda	98	U+0259
+ɔː$	ɔː	ip.t̪ɔː, up.t̪ɔː	KusundaK, KusundaGM	84	U+0254 U+02d0 U+0024
+aː	aː	jaːq, ʣaː aː.gɔː	KusundaGM, KusundaK	82	U+0061 U+02d0
+ɔ	ɔ	gɔ.blɔk, sɔk.sɔk.di sɔk.sɔk.gɔ.rɔm	KusundaGM, KusundaK, Kusunda	79	U+0254
+aː$	aː	gi.naː, bɐr.saː	KusundaK, KusundaGM, Kusunda	68	U+0061 U+02d0 U+0024
+ŋ	ŋ	huŋ.kəj, liŋ.waː	KusundaGM, KusundaK, Kusunda	66	U+014b
+^g	g	gi.naː, gi.lɐŋ	KusundaGM, KusundaK, Kusunda, Duhumbi	66	U+005e U+0067
+iː$	iː	i.pi giː, kiː	KusundaK, KusundaGM, Kusunda	61	U+0069 U+02d0 U+0024
+k	k	sɔk.sɔk.gaː.rɐm sɔk.sɔk.di, sɔk.sɔk.di sɔk.sɔk.gɔ.rɔm	KusundaGM, KusundaK, Kusunda	51	U+006b
+m	m	kʰɐm.kʰɐm ɐ.gɔː kʰɐm ɐ.gɔː, d̪i.miː	KusundaK, KusundaGM, Kusunda	51	U+006d
+n$	n	ɐ.hun, si.sin	KusundaGM, KusundaK, Kusunda	51	U+006e U+0024
+s	s	si.sin, sɔk.sɔk.gaː.rɐm sɔk.sɔk.di	KusundaK, KusundaGM, Kusunda	48	U+0073
+^h	h	hɐ.rə.gun, huŋ.kəj	KusundaK, KusundaGM, Kusunda	45	U+005e U+0068
+t̪	t̪	nɐ.t̪.n, ɐ.t̪aː gi.t̪ɐŋ hur.rə ɐ.gɔː	KusundaK, KusundaGM, Kusunda	44	U+0074 U+032a
+b	b	gɔ.blɔk, si.baː	KusundaK, KusundaGM, Kusunda	43	U+0062
+n	n	gi.naː, mə.niː	KusundaGM, KusundaK, Kusunda	43	U+006e
+l	l	gi.lɐŋ, bul.ʦʰum	KusundaGM, Kusunda, KusundaK	42	U+006c
+ŋ$	ŋ	gi.lɐŋ, i.ʣəŋ	Kusunda, KusundaGM, KusundaK	42	U+014b U+0024
+a	a	jaq, kãː.wər	Kusunda, KusundaK, KusundaGM	40	U+0061
+r	r	pʰur.pʰur.t̪ɔː, hɐ.rə.gun	KusundaK, KusundaGM, Kusunda	40	U+0072
+^j	j	jaːq, jaq	KusundaGM, Kusunda, KusundaK	40	U+005e U+006a
+i$	i	gi, ʦi	Kusunda, KusundaGM, KusundaK, Duhumbi, Tshangla	39	U+0069 U+0024
+^ɐ	ɐ	ɐ.hun, ɐ.gəj	KusundaK, Kusunda, KusundaGM	39	U+005e U+0250
+^n	n	nɐw, nɔk	Kusunda, KusundaK, KusundaGM	37	U+005e U+006e
+j	j	i.jəŋ, d̪əj.ʤiː	KusundaK, KusundaGM, Kusunda	35	U+006a
+j$	j	qɐj, huŋ.kəj	KusundaGM, KusundaK, Kusunda	34	U+006a U+0024
+^i	i	i.ʣəŋ, i.pi giː	KusundaGM, KusundaK, Kusunda	33	U+005e U+0069
+a$	a	gi.na, si.ba	Kusunda, KusundaK	31	U+0061 U+0024
+k$	k	gɔ.blɔk, nɔk	Kusunda, KusundaK, KusundaGM	31	U+006b U+0024
+^b	b	bɐm, bul.ʦʰum	KusundaK, KusundaGM, Kusunda	30	U+005e U+0062
+^q	q	qɐj, qaːn	KusundaK, KusundaGM, Kusunda	30	U+005e U+0071
+m$	m	d̪um, bɐm	Kusunda, KusundaGM, KusundaK	30	U+006d U+0024
+^m	m	mə.niː, mɐ.lɐŋ	Kusunda, KusundaGM, KusundaK	30	U+005e U+006d
+^d̪	d̪	d̪um, d̪əj.ʤiː	KusundaGM, KusundaK	27	U+005e U+0064 U+032a
+o	o	pʰok.tok, go.dok	Kusunda	26	U+006f
+p	p	i.pi giː, lɐ.paː	KusundaGM, KusundaK, Kusunda	26	U+0070
+^s	s	si.sin, si.baː	KusundaGM, Kusunda, KusundaK	25	U+005e U+0073
+^p	p	pɐ.sɔw, pɐ.weːj	Kusunda, KusundaK, KusundaGM	25	U+005e U+0070
+w$	w	nɐw, jəw	KusundaGM, Kusunda, KusundaK	25	U+0077 U+0024
+uː$	uː	ɐm.buː, nuː	KusundaK, KusundaGM	25	U+0075 U+02d0 U+0024
+^l	l	liŋ.waː, lɐ.paː	KusundaK, KusundaGM, Kusunda	25	U+005e U+006c
+q$	q	jaːq, jaq	Kusunda, KusundaK, KusundaGM	25	U+0071 U+0024
+ɛ	ɛ	jɛŋ, pʰʲɛk.sɐm	KusundaK, KusundaGM, Kusunda	25	U+025b
+w	w	qaː.wəj, kãː.wər	KusundaGM, KusundaK, Kusunda	24	U+0077
+ʣ	dz	i.ʣəŋ, nɔŋ.ʣeː ɐŋ.ʣeː	KusundaGM, Kusunda, KusundaK	23	U+02a3
+h	h	ɐ.hun, wu.hiː	Kusunda, KusundaGM, KusundaK	22	U+0068
+t	t	ɐ.ta gi.tɐŋ hur.rə, gi.tət	Kusunda, KusundaGM, KusundaK	20	U+0074
+kʰ	kʰ	kʰɐm.kʰɐm ɐ.gɔː kʰɐm ɐ.gɔː, nɐ.kʰeː aː.gɔː	KusundaGM, KusundaK, Kusunda	19	U+006b U+02b0
+u$	u	gɐ̃ː.nu, u.hu	Kusunda, KusundaK, KusundaGM	18	U+0075 U+0024
+eː$	eː	hɐm.peː, qɔ.leː	KusundaGM, KusundaK, Kusunda	17	U+0065 U+02d0 U+0024
+^k	k	kiː, kãː.wər	KusundaGM, Kusunda, KusundaK	17	U+005e U+006b
+d̪	d̪	ɔː.d̪ɔk, pin.d̪aː	KusundaK, KusundaGM	17	U+0064 U+032a
+d	d	gɔ.dɔk, sɔk.sɔk.di sɔk.sɔk.gɔ.rɔm	Kusunda, KusundaGM, KusundaK	16	U+0064
+e	e	wen, meq	Kusunda	15	U+0065
+^d	d	dum, di.bɐŋ	Kusunda, KusundaGM	15	U+005e U+0064
+eː	eː	pɐ.weːj, geː.mɐt̪	KusundaGM, KusundaK	14	U+0065 U+02d0
+ʤ	dʒ	d̪əj.ʤiː, nɔ̃ː.ʤi ɐ̃ː.ʤi	KusundaK, KusundaGM	14	U+02a4
+e$	e	neŋ.ɐ.di gə.ʦe, swɐ.te	Kusunda	14	U+0065 U+0024
+^t̪	t̪	t̪ɔk, t̪ɐŋ	KusundaK, KusundaGM	13	U+005e U+0074 U+032a
+^pʰ	pʰ	pʰur.pʰur.t̪ɔː, pʰi.ru.t̪.n	Kusunda, KusundaK, KusundaGM	13	U+005e U+0070 U+02b0
+t̪$	t̪	geː.mɐt̪, jɛŋ.gut̪	KusundaK, KusundaGM	12	U+0074 U+032a U+0024
+ʦʰ	tsʰ	bul.ʦʰum, ər.ʦʰaː	KusundaGM, Kusunda, KusundaK	12	U+02a6 U+02b0
+^kʰ	kʰ	kʰɐ.rə.gun, kʰɐ.ru.guj	KusundaK, Kusunda, KusundaGM, Tshangla	12	U+005e U+006b U+02b0
+^ʣ	dz	ʣaː aː.gɔː, ʣɔŋ.ʣɐŋ	KusundaGM, Kusunda	12	U+005e U+02a3
+ʦ	ts	d̪uk.ʦiː, niŋ gə.ʦeː	Kusunda, KusundaGM, KusundaK	12	U+02a6
+iː	iː	biːs, piː.guː	KusundaK, KusundaGM	11	U+0069 U+02d0
+^gʰ	gʰ	gʰɔ.lɔχ, gʰɔχ.baː	KusundaK, Kusunda, KusundaGM	11	U+005e U+0067 U+02b0
+ɔː	ɔː	jɔː.lɐq, gɔː.raː ɐ.ʣeː	KusundaK, KusundaGM	10	U+0254 U+02d0
+ɛː	ɛː	wɛːn, kʰʲɛː ɐ.gɔː	KusundaK, KusundaGM	9	U+025b U+02d0
+uː	uː	qɐj uː.gun, t̪uːk	KusundaK, KusundaGM	8	U+0075 U+02d0
+ã	ã	kãː.wər, pãː.gu bi.sa sɐj ɛk	KusundaK, KusundaGM	8	U+0303
+^ʤ	dʒ	ʤɔ̃ː.ɔk, ʤəŋ.ɔn	KusundaK, KusundaGM	8	U+005e U+02a4
+ə$	ə	im.bə, pɐ.də	Kusunda	8	U+0259 U+0024
+^u	u	un, up.t̪ɔː	KusundaGM, Kusunda, KusundaK	8	U+005e U+0075
+^ə	ə	ər.ʦʰaː, ə.giː ɐ.gɔː	KusundaK, KusundaGM, Kusunda	7	U+005e U+0259
+t$	t	gi.ʣat, jɛŋ.gut	Kusunda	7	U+0074 U+0024
+χ$	χ	gʰɔ.lɔχ, gi.ʣɐχ	KusundaGM	7	U+03c7 U+0024
+^w	w	wɛːn, wen	Kusunda, KusundaK, KusundaGM	7	U+005e U+0077
+s$	s	biːs, bis	KusundaK, KusundaGM, Kusunda	7	U+0073 U+0024
+ãː	ãː	kãː.wər, pãː.gu bi.sa sɐj ɛk	KusundaK, KusundaGM	6	U+00e3 U+02d0
+^ʦ	ts	ʦi, ʦir.maː aː.gɔː	KusundaK, KusundaGM, Kusunda	6	U+005e U+02a6
+rr	rː	hur.rə aː.gɔː, ɐ.t̪aː gi.t̪ɐŋ hur.rə a.gɔː	KusundaK, KusundaGM, Kusunda	6	U+0072 U+0072
+ɴ	ɴ	baɴ.ʣa, ɐɴ.ʣe	Kusunda	5	U+0274
+^ɔ	ɔ	ɔk.d̪aː aː.gɔː, ɔk.d̪aː	KusundaGM, KusundaK, Kusunda	5	U+005e U+0254
+ɢ	ɢ	sa.ɢɐm, oɢ.da	Kusunda	5	U+0262
+^aː	aː	aːt̪, aː.wəj	KusundaK, KusundaGM	5	U+005e U+0061 U+02d0
+^t	t	tɐŋ, təj.sa	Kusunda	5	U+005e U+0074
+ɴ$	ɴ	ɐɴ, gɐɴ	Kusunda	4	U+0274 U+0024
+^mʲ	mʲ	mʲɛ̰kʰ, mʲɛk.tɔː	KusundaK, KusundaGM	4	U+005e U+006d U+02b2
+^a	a	aj.niː, at	Kusunda, KusundaGM	4	U+005e U+0061
+r$	r	kãː.wər, kaɴ.wər	Kusunda, KusundaK, KusundaGM	4	U+0072 U+0024
+kʰ$	kʰ	gɔː.rɐkʰ, pʲɛː ɔ.rɔkʰ	KusundaK, KusundaGM	4	U+006b U+02b0 U+0024
+^nʲ	nʲ	nʲɛŋ.diː, nʲɛŋ.d̪i gə.ʦeː	KusundaK, KusundaGM	4	U+005e U+006e U+02b2
+^iː	iː	iːŋ, iː ɔ.mɔχ	KusundaK, KusundaGM	3	U+005e U+0069 U+02d0
+ʧ	tʃ	gə.ʧeː, d̪uj gə.ʧeː	KusundaK	3	U+02a7
+^o	o	oɢ.da, o.dok	Kusunda	3	U+005e U+006f
+^gw	g w	gwaː, gwa	KusundaK, KusundaGM, Kusunda	3	U+005e U+0067 U+0077
+ɦ	ɦ	ɐ.ɦun, u.ɦuː	KusundaK	3	U+0266
+^hʲ	hʲ	hʲɔk aː.goː, hʲɐq ɐ.gɔː	KusundaK, KusundaGM, Kusunda	3	U+005e U+0068 U+02b2
+oː$	oː	si aː.goː, hʲɔk aː.goː	KusundaGM, KusundaK	3	U+006f U+02d0 U+0024
+o$	o	pʰo, ɔɢ.da ɐ.go	Kusunda	3	U+006f U+0024
+bʲ	bʲ	d̪i.bʲɛŋ, gu.bʲɛn	KusundaGM, KusundaK	3	U+0062 U+02b2
+^pʲ	pʲ	pʲɛː ɔ.rɔkʰ, pʲɛː.naː	KusundaK, KusundaGM	3	U+005e U+0070 U+02b2
+jj	jː	kɐ.pɐŋ bəj.jɔː, d̪əj.jaː	KusundaGM, Kusunda	3	U+006a U+006a
+^r	r	ru, ruː aː.gɔː	KusundaK, KusundaGM, Kusunda	3	U+005e U+0072
+pʰ	pʰ	pʰur.pʰur.t̪ɔː, pʰur.pʰur	KusundaK, KusundaGM, Kusunda	3	U+0070 U+02b0
+^ʦʰ	tsʰ	ʦʰaː, ʦʰa.gu.d̪aː	KusundaK, KusundaGM, Kusunda	3	U+005e U+02a6 U+02b0
+ɔ̃ː	ɔ̃ː	nɔ̃ː.ʤi ɐ̃ː.ʤi, ʤɔ̃ː.ɔk	KusundaK	2	U+0254 U+0303 U+02d0
+ɐ̃ː	ɐ̃ː	nɔ̃ː.ʤi ɐ̃ː.ʤi, gɐ̃ː.nu	KusundaK	2	U+0250 U+0303 U+02d0
+^sw	s w	swɐ.te, swɐ.t̪eː	KusundaK, Kusunda	2	U+005e U+0073 U+0077
+ʧʰ	tʃʰ	maː.a̰.ʧʰeː, bɐ.ʧʰiː	KusundaK	2	U+02a7 U+02b0
+ɐ̰	ɐ̰	jɐ.ɐ̰w, saː.ɐ̰m	KusundaK	2	U+0250 U+0330
+^ʣʰ	dzʰ	ʣʰɐm, ʣʰok	Kusunda	2	U+005e U+02a3 U+02b0
+^ɔ̰	ɔ̰	ɔ̰.d̪aː, ɔ̰.d̪aː ɐ.gɔː	KusundaK	2	U+005e U+0254 U+0330
+ɔ$	ɔ	huː.t̪ɔ, pʰɔː aː.gɔ	KusundaK, KusundaGM	2	U+0254 U+0024
+^eː	eː	eː.guː, eː.gɔː	KusundaK, KusundaGM	2	U+005e U+0065 U+02d0
+^pʰʲ	pʰʲ	pʰʲɛk.sɐm	KusundaK, KusundaGM	2	U+005e U+0070 U+02b0 U+02b2
+^ɐ̃	ɐ̃	ɐ̃.waː, ɐ̃.jiː ɐ̃.waː	KusundaK, KusundaGM	2	U+005e U+0250 U+0303
+^d̪ʰ	d̪ʰ	d̪ʰuŋ.tɔː, d̪ʰu.sə ɐ.gɔː	KusundaK	2	U+005e U+0064 U+032a U+02b0
+^dʰ	dʰ	dʰu.sə, dʰuŋ	Kusunda	2	U+005e U+0064 U+02b0
+^kʰʲ	kʲʰ	kʰʲɛː, kʰʲɛː ɐ.gɔː	KusundaK, KusundaGM	2	U+005e U+006b U+02b0 U+02b2
+ɛː$	ɛː	ɐ.pʲɛː, kʰʲɛː	KusundaK, KusundaGM	2	U+025b U+02d0 U+0024
+qʰ	qʰ	ʦaŋ qʰaw, aː.qʰoː	KusundaK	2	U+0071 U+02b0
+^ɔː	ɔː	ɔː.d̪ɔk	KusundaK, KusundaGM	2	U+005e U+0254 U+02d0
+^kʲ	kʲ	kʲɛŋ, kʲɛː.kʰɐŋ	KusundaK, KusundaGM	2	U+005e U+006b U+02b2
+ũː	ũː	hũː.nu	KusundaK	1	U+0169 U+02d0
+^u$	u	u	Kusunda	1	U+005e U+0075 U+0024
+weːj ~ wɛn	<???>	weːj ~ wɛn	KusundaGM	1	U+0077 U+0065 U+02d0 U+006a U+0020 U+007e U+0020 U+0077 U+025b U+006e
+wɛːn ~ ɔː.wɛn ~ ɔː.wən	<???>	wɛːn ~ ɔː.wɛn ~ ɔː.wən	KusundaK	1	U+0077 U+025b U+02d0 U+006e U+0020 U+007e U+0020 U+0254 U+02d0 U+002e U+0077 U+025b U+006e U+0020 U+007e U+0020 U+0254 U+02d0 U+002e U+0077 U+0259 U+006e
+ʤʰɐ.mɔː ~ ʣʰɐ.mɔː	<???>	ʤʰɐ.mɔː ~ ʣʰɐ.mɔː	KusundaK	1	U+02a4 U+02b0 U+0250 U+002e U+006d U+0254 U+02d0 U+0020 U+007e U+0020 U+02a3 U+02b0 U+0250 U+002e U+006d U+0254 U+02d0
+bw	b w	dɐŋ.bwaː	KusundaGM	1	U+0062 U+0077
+^ĩː	ĩː	ĩːŋ.ɐ̪.aw	KusundaK	1	U+005e U+0129 U+02d0
+ɐ̪	ɐ̰	ĩːŋ.ɐ̪.aw	KusundaK	1	U+0250 U+032a
+^ʤʲ	dʒʲ	ʤʲun t̪ɐŋ	KusundaK	1	U+005e U+02a4 U+02b2
+a̰ː	a̰ː	geː.pa̰ːn	KusundaK	1	U+0061 U+0330 U+02d0
+^e$	e	e	Kusunda	1	U+005e U+0065 U+0024
+z	z	gaː.zi	KusundaGM	1	U+007a
+q	q	hʲɐq ɐ.gɔː	KusundaK	1	U+0071
+χ	χ	gʰɔχ.baː	KusundaGM	1	U+03c7
+^ʧ	tʃ	ʧiː	KusundaK	1	U+005e U+02a7
+ɐ̃	ɐ̃	ɐ̃.jiː ɐ̃.waː	KusundaGM	1	U+0250 U+0303
+^ɔ̃ː	ɔ̃ː	ɔ̃ː.ʦaː	KusundaK	1	U+005e U+0254 U+0303 U+02d0
+d̪ʰ	d̪ʰ	bu.d̪ʰaː	KusundaK	1	U+0064 U+032a U+02b0
+ʣʰ	dzʰ	t̪ɐŋ ʣʰaw.ʣiː	KusundaGM	1	U+02a3 U+02b0
+^uː	uː	uːn	KusundaK	1	U+005e U+0075 U+02d0
+p$	p	ip	Kusunda	1	U+0070 U+0024
+^bʰ	bʰ	bʰa.ŋeː.raː	KusundaK	1	U+005e U+0062 U+02b0
+ŋŋ	ŋŋ	d̪əŋ.ŋaː	KusundaGM	1	U+014b U+014b
+ɐː	ɐː	d̪ɐːs	KusundaK	1	U+0250 U+02d0
+pʲ	pʲ	ɐ.pʲɛː	KusundaK	1	U+0070 U+02b2
+ɛ̰	ɛ̰	mʲɛ̰kʰ	KusundaK	1	U+025b U+0330
+^ʤʰ	dʒʰ	ʤʰɔk ɐ.gɔː	KusundaK	1	U+005e U+02a4 U+02b0
+^qʰ	qʰ	qʰɐ.jɛm bʰɔ.jɔː	KusundaK	1	U+005e U+0071 U+02b0
+bʰ	bʰ	qʰɐ.jɛm bʰɔ.jɔː	KusundaK	1	U+0062 U+02b0
+a̰	a̰	maː.a̰.ʧʰeː	KusundaK	1	U+0061 U+0330
