@@ -1,18 +1,22 @@
 from setuptools import setup
+import json
 
+with open("metadata.json") as fp:
+    metadata = json.load(fp)
 
 setup(
-    name='cldfbench_aaleykusunda',
-    py_modules=['cldfbench_aaleykusunda'],
+    name='lexibank_aaleykusunda',
+    py_modules=['lexibank_aaleykusunda'],
     include_package_data=True,
+    url=metadata.get("url",""),
     zip_safe=False,
     entry_points={
-        'cldfbench.dataset': [
-            'aaleykusunda=cldfbench_aaleykusunda:Dataset',
+        'lexibank.dataset': [
+            'aaleykusunda=lexibank_aaleykusunda:Dataset',
         ]
     },
     install_requires=[
-        'cldfbench',
+        "pylexibank>=2.1"
     ],
     extras_require={
         'test': [
