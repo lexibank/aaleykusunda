@@ -34,7 +34,7 @@ This repository contains 230 Kusunda words according to the Concept list of the 
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 3,735
+- **Tokens:** 3,718
 - **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 76 CLTS modified)
 - **Inventory size (avg):** 54.00
 
