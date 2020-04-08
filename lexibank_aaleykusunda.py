@@ -35,16 +35,9 @@ class Dataset(BaseDataset):
         # add concept
         concepts = args.writer.add_concepts(id_factory=lambda c: c.id.split(
             "-")[-1] + "_" + slug(c.english), lookup_factory='Name')
-        # fix concept (concepticon source, data concept)
-        fix_concept = [
-            ('the barley (tibetan or highland)',
-             'the barley (Tibetan or highland)'),
-            ('to plant (vegetals, rice)',
-             'to plant (vegetables, rice)')]
-        for c in fix_concept:
-            if c[0] in concepts.keys():
-                concepts[c[1]] = concepts[c[0]]
-                del concepts[c[0]]
+        # fix concept lookup
+        concepts["the barley (Tibetan or highland)"] = concepts["the barley (tibetan or highland)"]
+        concepts["to plant (vegetables, rice)"] = concepts["to plant (vegetals, rice)"]
         args.log.info('added concepts')
 
         # add language
@@ -55,7 +48,7 @@ class Dataset(BaseDataset):
         data = self.raw_dir.read_csv('Kusunda_2019_250_lexical_items.tsv',
                                      delimiter='\t', dicts=True)
         # add data
-        for gloss, entry in pb(list(enumerate(data)),
+        for gloss, entry in pb(enumerate(data),
                                desc='cldfify', total=len(data)):
             if entry['ENGLISH'] in concepts.keys():
                 for key, val in languages.items():
