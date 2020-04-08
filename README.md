@@ -11,6 +11,14 @@ Available online at https://zenodo.org/record/3377537#.XoXVZW7RZTY
 
 Conceptlists in Concepticon:
 - [Sagart-2019-250](https://concepticon.clld.org/contributions/Sagart-2019-250)
+## Notes
+
+This repository contains 230 Kusunda words according to the Concept list of the study "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History."
+ 
+ 
+
+
+
 ## Statistics
 
 
