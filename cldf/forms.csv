@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-KusundaGM-1_above-1,,KusundaGM,1_above,nɔŋ.ʣeː ɐŋ.ʣeː,nɔŋ.ʣeː,n ɔ ŋ + dz eː,,Bodt2019b,,,^n ɔ ŋ . ʣ eː$,default
-KusundaK-1_above-1,,KusundaK,1_above,nɔ̃ː.ʤi ɐ̃ː.ʤi,nɔ̃ː.ʤi,n ɔ̃ː + dʒ i,,Bodt2019b,,,^n ɔ̃ː . ʤ i$,default
+KusundaGM-1_above-1,,KusundaGM,1_above,nɔŋ.ʣeː ɐŋ.ʣeː,ɐŋ.ʣeː,ɐ ŋ + dz eː,,Bodt2019b,,,^ɐ ŋ . ʣ eː$,default
+KusundaK-1_above-1,,KusundaK,1_above,nɔ̃ː.ʤi ɐ̃ː.ʤi,ɐ̃ː.ʤi,ɐ̃ː + dʒ i,,Bodt2019b,,,^ɐ̃ː . ʤ i$,default
 Kusunda-1_above-1,,Kusunda,1_above,ɐɴ.ʣe,ɐɴ.ʣe,ɐ ɴ + dz e,,Bodt2019b,,,^ɐ ɴ . ʣ e$,default
 KusundaGM-2_all-1,,KusundaGM,2_all,sɐt.t̪eːj,sɐt.t̪eːj,s ɐ t + t̪ eː j,,Bodt2019b,,,^s ɐ t . t̪ eː j$,default
 KusundaK-2_all-1,,KusundaK,2_all,swɐ.t̪eː,swɐ.t̪eː,s w ɐ + t̪ eː,,Bodt2019b,,,^sw ɐ . t̪ eː$,default
@@ -267,7 +267,7 @@ KusundaGM-97_thehouse-1,,KusundaGM,97_thehouse,wu.hiː,wu.hiː,w u + h iː,,Bodt
 KusundaK-97_thehouse-1,,KusundaK,97_thehouse,wu.hiː,wu.hiː,w u + h iː,,Bodt2019b,,,^w u . h iː$,default
 Kusunda-97_thehouse-1,,Kusunda,97_thehouse,wu.hi,wu.hi,w u + h i,,Bodt2019b,,,^w u . h i$,default
 KusundaGM-98_hundred-1,,KusundaGM,98_hundred,səj,səj,s ə j,,Bodt2019b,,,^s ə j$,default
-KusundaK-98_hundred-1,,KusundaK,98_hundred,pãː.gu bi.sa sɐj ɛk,pãː.gu bi.sa sɐj ɛk,p ãː + g u + b i + s a + s ɐ j + ɛ k,,Bodt2019b,,,^p ãː . g u + b i . s a + s ɐ j + ɛ k$,default
+KusundaK-98_hundred-1,,KusundaK,98_hundred,pãː.gu bi.sa sɐj ɛk,sɐj,s ɐ j,,Bodt2019b,,,^s ɐ j$,default
 Kusunda-98_hundred-1,,Kusunda,98_hundred,sɐj,sɐj,s ɐ j,,Bodt2019b,,,^s ɐ j$,default
 KusundaGM-99_tohunt-1,,KusundaGM,99_tohunt,pɐ.d̪ən aː.gɔː,pɐ.d̪ən aː.gɔː,p ɐ + d̪ ə n + aː + g ɔː,,Bodt2019b,,,^p ɐ . d̪ ə n + aː . g ɔː$,default
 KusundaK-99_tohunt-1,,KusundaK,99_tohunt,ɐm.baː pɐ.d̪ə ɐ.gɔː,ɐm.baː pɐ.d̪ə ɐ.gɔː,ɐ m + b aː + p ɐ + d̪ ə + ɐ + g ɔː,,Bodt2019b,,,^ɐ m . b aː + p ɐ . d̪ ə + ɐ . g ɔː$,default
