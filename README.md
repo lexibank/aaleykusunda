@@ -1,4 +1,4 @@
-# CLDF dataset derived from Aaley et al. "New Kusunda data: A list of 250 concepts" from 2020
+# CLDF dataset derived from Uday Raj Aaley and Timotheus A. Bodt "New Kusunda data: A list of 250 concepts" from 2020
 
 Cite the source dataset as
 

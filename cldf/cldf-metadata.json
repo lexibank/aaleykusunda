@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Aaley et al. \"New Kusunda data: A list of 250 concepts\" from 2020",
+    "dc:title": "CLDF dataset derived from Uday Raj Aaley and Timotheus A. Bodt \"New Kusunda data: A list of 250 concepts\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/aaleykusunda",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/aaleykusunda",
-            "dc:created": "9a92b86"
+            "dc:created": "5bb691d"
         },
         {
             "rdf:type": "prov:Entity",
