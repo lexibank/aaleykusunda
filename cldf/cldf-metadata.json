@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Uday Raj Aaley and Timotheus A. Bodt, \u201cNew Kusunda data: A list of 250 concepts\u201d, in Computer-Assisted Language Comparison in Practice, 08/04/2020, https://calc.hypotheses.org/2414",
+    "dc:bibliographicCitation": "Uday Raj Aaley and Timotheus A. Bodt (2020): New Kusunda data: A list of 250 concepts. Computer-Assisted Language Comparison in Practice 3.4 (08/04/2020), URL: https://calc.hypotheses.org/2414.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Sagart-2019-250"
@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Uday Raj Aaley and Timotheus A. Bodt \"New Kusunda data: A list of 250 concepts\" from 2020",
+    "dc:title": "CLDF dataset derived from Aaley and Bodt's \"New Kusunda data: A list of 250 concepts\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/aaleykusunda",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/aaleykusunda",
-            "dc:created": "5bb691d"
+            "dc:created": "v1.0-5-g71cd58d"
         },
         {
             "rdf:type": "prov:Entity",
