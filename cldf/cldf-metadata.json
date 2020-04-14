@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/aaleykusunda",
-            "dc:created": "v1.0-5-g71cd58d"
+            "dc:created": "v1.0-6-gaa8cdbb"
         },
         {
             "rdf:type": "prov:Entity",
