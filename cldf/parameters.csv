@@ -146,7 +146,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 155_topush,to push,1452,PUSH
 156_therain,the rain,658,RAIN (PRECIPITATION)
 158_red,red,156,RED
-159_toresidelive,to reside (live),1099,RESIDE
+159_toresidelive,to reside (live),363,"DWELL (LIVE, RESIDE)"
 160_thericeplant,the rice plant,2026,RICE PLANT
 163_theroad,the road,667,ROAD
 164_theroot,the root,670,ROOT
@@ -192,8 +192,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208_that,that,78,THAT
 209_there,there,1937,THERE
 210_thick,thick,1244,THICK
-211_thethigh,the thigh,800,THIGH
-212_thinobject,thin (object),2307,THIN (OF HAIR AND LEAF)
+211_thethigh,the thigh,471,UPPER LEG (THIGH)
+212_thinobject,thin (object),2249,THIN (OF SHAPE OF OBJECT)
 213_tothinkreflect,to think (reflect),1415,THINK (REFLECT)
 214_this,this,1214,THIS
 215_thousecondpersonsingular,thou [second person singular],1215,THOU
