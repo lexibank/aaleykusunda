@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Uday Raj Aaley and Timotheus A. Bodt (2020): New Kusunda data: A list of 250 concepts. Computer-Assisted Language Comparison in Practice 3.4 (08/04/2020), URL: https://calc.hypotheses.org/2414.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://calc.hypotheses.org/2414
 
@@ -52,7 +52,7 @@ Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Uday Raj Aaley| |publication author, fieldwork | Author, RightsHolder, Distributor
 Timotheus A. Bodt| | publication author, fieldwork, orthography profile | Author, RightsHolder, Distributor
-Mei-Shin Wu | @macyl | patron, maintainer | Author
-Johann-Mattis List | @LinguList| orthography profile, maintainer | Author
+Mei-Shin Wu | @macyl | patron, maintainer | Other
+Johann-Mattis List | @LinguList| orthography profile, maintainer | Other
 
 

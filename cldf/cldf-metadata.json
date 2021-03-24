@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "https://calc.hypotheses.org/2414",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Aaley and Bodt's \"New Kusunda data: A list of 250 concepts\" from 2020",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/aaleykusunda",
-            "dc:created": "v1.0-10-g9e6031c"
+            "dc:created": "v1.0-11-g3c03377"
         },
         {
             "rdf:type": "prov:Entity",

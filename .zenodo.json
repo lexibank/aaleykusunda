@@ -11,12 +11,6 @@
         },
         {
             "name": "Timotheus A. Bodt"
-        },
-        {
-            "name": "Mei-Shin Wu"
-        },
-        {
-            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
@@ -35,6 +29,14 @@
         {
             "name": "Timotheus A. Bodt",
             "type": "Distributor"
+        },
+        {
+            "name": "Mei-Shin Wu",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "communities": [
@@ -45,6 +47,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Uday Raj Aaley and Timotheus A. Bodt (2020): New Kusunda data: A list of 250 concepts. Computer-Assisted Language Comparison in Practice 3.4 (08/04/2020), URL: https://calc.hypotheses.org/2414.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }
