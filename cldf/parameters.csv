@@ -57,11 +57,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 56_thefish,the fish,227,FISH
 57_five,five,493,FIVE
 58_theflea,the flea,232,FLEA
-59_tofloat,to float,1574,FLOAT
 60_toflow,to flow,2003,FLOW
 61_theflower,the flower,239,FLOWER
 62_toflymovethroughair,to fly (move through air),1441,FLY (MOVE THROUGH AIR)
-63_thefog,the fog,249,FOG
 64_thefoot,the foot,1301,FOOT
 65_theforest,the forest,420,FOREST
 66_toforget,to forget,1523,FORGET
@@ -90,8 +88,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 89_tohideconceal,to hide (conceal),602,HIDE (CONCEAL)
 90_hightall,high / tall,1265,HIGH
 91_tohold,to hold,1448,HOLD
-92_thehoof,the hoof,152,HOOF
-93_horizontal,horizontal,2376,HORIZONTAL
 94_thehornkeratinizedskin,the horn (keratinized skin),1393,HORN (ANATOMY)
 95_thehorse,the horse,615,HORSE
 96_hot,hot,1286,HOT
@@ -107,16 +103,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 106_theknee,the knee,1371,KNEE
 107_knife,knife,1352,KNIFE
 108_toknowsomething,to know (something),1410,KNOW (SOMETHING)
-109_thelake,the lake,624,LAKE
 110_late,late,477,LATE
 111_tolaugh,to laugh,1355,LAUGH
 112_theleaf,the leaf,628,LEAF
 113_tolearn,to learn,504,LEARN
-114_left,left,244,LEFT
 115_tolick,to lick,319,LICK
 116_toliedown,to lie down,215,LIE DOWN
 117_lightofweight,light (of weight),1052,LIGHT (WEIGHT)
-118_thelipthelips,the lip (the lips),478,LIP
 119_theliver,the liver,1224,LIVER
 120_long,long,1203,LONG
 121_thelouse,the louse,1392,LOUSE
@@ -128,7 +121,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 127_middle,middle,1093,MIDDLE
 128_themoon,the moon,1313,MOON
 129_morning,morning,1339,MORNING
-130_themosquito,the mosquito,1509,MOSQUITO
 131_themother,the mother,1216,MOTHER
 132_themountain,the mountain,639,MOUNTAIN
 133_themouseorrat,the mouse or rat,2139,MUROID (MOUSE OR RAT)
@@ -136,7 +128,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 135_themud,the mud,640,MUD
 136_thenailfingernailorclaw,the nail (fingernail or claw),2128,CLAW OR NAIL
 137_thename,the name,1405,NAME
-138_narrow,narrow,1267,NARROW
 139_near,near,1942,NEAR
 140_theneck,the neck,1333,NECK
 141_theneedleforsewing,the needle (for sewing),1382,NEEDLE (FOR SEWING)
@@ -147,7 +138,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 146_thenose,the nose,1221,NOSE
 147_oldofperson,old (of person),2112,OLD (AGED)
 148_one,one,1493,ONE
-149_theotter,the otter,15,OTTER
 150_outside,outside,762,OUTSIDE
 151_thepig,the pig,1337,PIG
 152_toplantvegetalsrice,"to plant (vegetals, rice)",1486,PLANT (SOMETHING)
@@ -155,12 +145,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 154_topull,to pull,1455,PULL
 155_topush,to push,1452,PUSH
 156_therain,the rain,658,RAIN (PRECIPITATION)
-157_therainbow,the rainbow,1733,RAINBOW
 158_red,red,156,RED
 159_toresidelive,to reside (live),363,"DWELL (LIVE, RESIDE)"
 160_thericeplant,the rice plant,2026,RICE PLANT
-161_right,right,1019,RIGHT
-162_theriver,the river,666,RIVER
 163_theroad,the road,667,ROAD
 164_theroot,the root,670,ROOT
 165_therope,the rope,1218,ROPE
@@ -170,15 +157,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 169_salty,salty,1091,SALTY
 170_thesand,the sand,671,SAND
 171_toscratch,to scratch,1436,SCRATCH
-172_thesea,the sea,1474,SEA
 173_tosee,to see,1409,SEE
-174_theseed,the seed,714,SEED
 175_seven,seven,1704,SEVEN
 176_sharp,sharp,1396,SHARP
 177_thesheep,the sheep,1331,SHEEP
 178_toshootanarrow,to shoot (an arrow),1172,SHOOT
 179_short,short,1645,SHORT
-180_theshoulder,the shoulder,1482,SHOULDER
 181_shy,shy,487,SHY
 182_thesickle,the sickle,341,SICKLE
 183_tosing,to sing,1261,SING
@@ -189,7 +173,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 188_small,small,1246,SMALL
 189_tosmellperceiveodortransitive,to smell (perceive odor) [transitive],1586,SMELL (PERCEIVE)
 190_thesmoke,the smoke,778,SMOKE (EXHAUST)
-191_smooth,smooth,1234,SMOOTH
 192_thesnake,the snake,730,SNAKE
 193_thesnow,the snow,784,SNOW
 194_soft,soft,1856,SOFT
@@ -216,7 +199,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 215_thousecondpersonsingular,thou [second person singular],1215,THOU
 216_three,three,492,THREE
 217_tothrow,to throw,1456,THROW
-218_thethunder,the thunder,1150,THUNDER
 219_thetiger,the tiger,846,TIGER
 220_today,today,1283,TODAY
 221_tomorrow,tomorrow,1329,TOMORROW
@@ -225,7 +207,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 224_thetree,the tree,906,TREE
 225_twenty,twenty,1710,TWENTY
 226_two,two,1498,TWO
-227_tovomit,to vomit,1278,VOMIT
 228_towalk,to walk,1443,WALK
 229_thewater,the water,948,WATER
 230_wefirstpersonpluralinclusive,we [first person plural inclusive],1131,WE (INCLUSIVE)
@@ -242,7 +223,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 241_thewolf,the wolf,522,WOLF
 242_thewoman,the woman,962,WOMAN
 243_thewoodmaterial,the wood (material),1803,WOOD
-244_tosowbroadcastscatterseeds,"to sow (broadcast, scatter seeds)",748,SOW SEEDS
 245_theyear,the year,1226,YEAR
 246_yellow,yellow,1424,YELLOW
 247_yesterday,yesterday,1174,YESTERDAY

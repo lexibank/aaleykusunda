@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/aaleykusunda",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-2-gb84a347",
+            "dc:created": "v2.0-3-g3bfaaf5",
             "dc:title": "Repository"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 250,
+            "dc:extent": 230,
             "tableSchema": {
                 "columns": [
                     {

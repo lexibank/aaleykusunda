@@ -16,6 +16,7 @@ class Dataset(pylexibank.Dataset):
     id = "aaleykusunda"
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(separators="~;,/", missing_data=["∅"], first_form_only=True)
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         # add bib
