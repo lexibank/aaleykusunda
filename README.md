@@ -38,20 +38,20 @@ If synonyms occurred, we tokenize the first form. However, the following words a
 
 
 [![CLDF validation](https://github.com/lexibank/aaleykusunda/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/aaleykusunda/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 68%](https://img.shields.io/badge/Glottolog-68%25-orange.svg "Glottolog: 68%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 3
-- **Concepts:** 230
+- **Varieties:** 3 (linked to 1 different Glottocodes)
+- **Concepts:** 230 (linked to 230 different Concepticon concept sets)
 - **Lexemes:** 662
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 3,718
-- **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 76 CLTS modified)
+- **Segments:** 76 (0 BIPA errors, 0 CLTS sound class errors, 76 CLTS modified)
 - **Inventory size (avg):** 54.00
 
 # Contributors
@@ -60,8 +60,7 @@ Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Uday Raj Aaley| |publication author, fieldwork | Author, RightsHolder, Distributor
 Timotheus A. Bodt| | publication author, fieldwork, orthography profile | Author, RightsHolder, Distributor
-Mei-Shin Wu | @macyl | patron, maintainer | Other
-Johann-Mattis List | @LinguList| orthography profile, maintainer | Other
+Johann-Mattis List | @LinguList| orthography profile, maintainer | Editor
 
 
 
